@@ -113,7 +113,7 @@ class MyHomePage extends StatelessWidget {
                         review: 'Nice glasses for\nthe day :)',
                         cardColor: Color(0xffF0F3FF),
                       ),
-                      const SizedBox(width: 16),
+                       SizedBox(width: 16),
                       ClientReviewCard(
                         image: 'assets/images/avatar3.png',
                         name: 'Ryan Gosling',

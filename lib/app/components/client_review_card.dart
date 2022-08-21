@@ -19,7 +19,7 @@ class ClientReviewCard extends StatelessWidget {
       height: 120,
       width: MediaQuery.of(context).size.width / 1.5,
       decoration: BoxDecoration(
-          borderRadius: BorderRadius.circular(25), color: cardColor),
+          borderRadius: BorderRadius.circular(15), color: cardColor),
       child: Padding(
         padding: const EdgeInsets.only(left: 16),
         child: Row(children: [
